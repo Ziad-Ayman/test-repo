@@ -1,3 +1,4 @@
+# This is a test change for the development workflow script
 def greet(name):
     """
     Function to greet a person with their name.
